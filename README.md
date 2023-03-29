@@ -5,7 +5,7 @@ Sprocket is a medium size bikes & cycling accessories organisation.
 Two datasets are analysed: Transaction and Customer Demographic to better help Sprocket optimise its marketing strategy.
 
 4 graphs are generated:
-1) Customers are grouped into Gold, Platinum, Bronze and Silver
+1) RFM Segmentation: Customers are grouped into Gold, Platinum, Bronze and Silver
 2) New Customer Age Distribution: To find out the distribution of new customers' age group purchasing from Sprocket
 3) Old Customer Age Distribution: To find out the distribution of old customers' age group purchasing from Sprocket
 4) Number of Cars Owned in each state: To find out which state has the most car owners to allow Sprocket to focus on which state more on its marketing strategy
