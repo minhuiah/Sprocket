@@ -4,7 +4,7 @@ Data exploration, analysis and visualisation was done using Excel to find the tr
 Sprocket is a medium size bikes & cycling accessories organisation. 
 Two datasets are analysed: Transaction and Customer Demographic to better help Sprocket optimise its marketing strategy.
 
-4 graphs are generated:
+4 graphs were generated:
 1) RFM Segmentation: Customers are grouped into Gold, Platinum, Bronze and Silver
 2) New Customer Age Distribution: To find out the distribution of new customers' age group purchasing from Sprocket
 3) Old Customer Age Distribution: To find out the distribution of old customers' age group purchasing from Sprocket
